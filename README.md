@@ -38,3 +38,6 @@ Personal research-based code experiments
 Machine learning and simulation tools relevant to astrophysics
 ## Contact 
 If you're a professor, mentor, or researcher interested in collaboration, guidance, or academic opportunities, feel free to reach out via the contact linked in my GitHub profile.
+
+⚠️ This repository is for personal learning documentation only and does not include solutions to course assignments.
+
