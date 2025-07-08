@@ -24,4 +24,15 @@ _This document reflects my personal learning notes and does not contain any cour
 - Human program example: Dance instructions for the macarana.
 - People make errors and sometimes our brains fix them, but **computers don't**.
 - Therefore, these are considered **bugs**, and the computer will see these as **syntax error** and will quit. 
-
+# Hardware Overview 1.2 
+**vocab**
+- **Central Processing Unit**: (CPU) a circut with millions of transistors that asks **whats next?** and gets the answers out of the memory.
+- **Main Memory**: Fast small temporary storage - lost on reboot - aka RAM
+- **Secondary Memory**: Slower large permanent storage - lasts until deleted (ex: usb stick) 
+- **Input and Output Devices**: the way the computer accesses the outside world. (ex: mouse, or keyboard are input. screen or speakers are output)
+# Python as a Language 1.3 
+- Pythonistas: Those who can read or write Python language
+- **Guido van Rossum**: invented the Python language
+- Name has nothing to do with snakes, but based on Monty Pythons Flying Circus (so it seemed less serious and more enjoyable)
+- Designed to be your first programming language but still be powerful
+- You will see a lot of Syntax Errors over your time coding but it doesn't mean you're bad at programming. It means that Python is lost. 
