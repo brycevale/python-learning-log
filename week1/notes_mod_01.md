@@ -1,4 +1,4 @@
-# Week 1 Notes : Why We Program & Syllabus 
+# Module 1 Notes : Why We Program & Syllabus 
 **Course Syllabus** 
 
 Learn how to construct a program from a series of simple python instructions.
@@ -35,4 +35,5 @@ _This document reflects my personal learning notes and does not contain any cour
 - **Guido van Rossum**: invented the Python language
 - Name has nothing to do with snakes, but based on Monty Pythons Flying Circus (so it seemed less serious and more enjoyable)
 - Designed to be your first programming language but still be powerful
-- You will see a lot of Syntax Errors over your time coding but it doesn't mean you're bad at programming. It means that Python is lost. 
+- You will see a lot of Syntax Errors over your time coding but it doesn't mean you're bad at programming. It means that Python is lost.
+  
